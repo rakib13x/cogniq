@@ -672,7 +672,12 @@ const LandingPage = () => {
               </div>
             </div>
             <div>
-              <img src={apiImage} width={1000} height={1000} alt="apiImage" />
+              <img
+                src="https://i.ibb.co.com/pB7ZP0CB/api-image.png"
+                width="1000"
+                height="1000"
+                alt="apiImage"
+              />
             </div>
           </div>
           {/* LLm End*/}
