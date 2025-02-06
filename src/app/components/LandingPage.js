@@ -70,7 +70,7 @@ const LandingPage = () => {
             href="./"
           >
             <div className="border border-primary-yellow/30 rounded-full">
-              <Image
+              <img
                 src="https://i.ibb.co.com/fV3R8mk7/logo.webp"
                 alt="logo"
                 loading="lazy"
@@ -80,7 +80,7 @@ const LandingPage = () => {
                 style={{ color: "transparent" }}
               />
             </div>
-            <Image
+            <img
               alt="logo"
               loading="lazy"
               width="54"
@@ -152,7 +152,7 @@ const LandingPage = () => {
               href="https://www.tiktok.com/@nutshellanimations"
             >
               <div className="relative">
-                <Image
+                <img
                   alt="nutshell"
                   loading="lazy"
                   width="67"
@@ -162,7 +162,7 @@ const LandingPage = () => {
                   style={{ color: "transparent" }}
                   src="https://i.ibb.co.com/sp0Pf35W/nutshell-logo.webp"
                 />
-                <Image
+                <img
                   alt="nutshell yellow"
                   loading="lazy"
                   width="67"
@@ -284,7 +284,7 @@ const LandingPage = () => {
                 href="https://www.tiktok.com/@nutshellanimations"
               >
                 <div className="relative">
-                  <Image
+                  <img
                     alt="nutshell"
                     loading="lazy"
                     width="67"
@@ -294,7 +294,7 @@ const LandingPage = () => {
                     style={{ color: "transparent" }}
                     src="https://i.ibb.co.com/sp0Pf35W/nutshell-logo.webp"
                   />
-                  <Image
+                  <img
                     alt="nutshell yellow"
                     loading="lazy"
                     width="67"
@@ -528,7 +528,7 @@ const LandingPage = () => {
               href="https://www.tiktok.com/@nutshellanimations"
             >
               <div className="jsx-bfdfaeb70e6ba3ca relative">
-                <Image
+                <img
                   alt="nutshell"
                   loading="lazy"
                   width="67"
@@ -672,7 +672,7 @@ const LandingPage = () => {
               </div>
             </div>
             <div>
-              <Image src={apiImage} width={1000} height={1000} alt="apiImage" />
+              <img src={apiImage} width={1000} height={1000} alt="apiImage" />
             </div>
           </div>
           {/* LLm End*/}
@@ -813,7 +813,7 @@ const LandingPage = () => {
               href="./"
             >
               <div className="border border-primary-yellow/30 rounded-full">
-                <Image
+                <img
                   src="https://i.ibb.co.com/fV3R8mk7/logo.webp"
                   alt="logo"
                   loading="lazy"
