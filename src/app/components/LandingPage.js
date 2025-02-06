@@ -111,7 +111,7 @@ const LandingPage = () => {
               className="text-xs font-medium text-white/60 uppercase hover:text-primary-yellow"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.dextools.io/app/en/token/nuttyai?t=1738251197537"
+              href="https://www.dextools.io/app/en/token/Cogniqai?t=1738251197537"
             >
               Dextools
             </a>
@@ -179,7 +179,7 @@ const LandingPage = () => {
               className="group text-white/60"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://x.com/NuttyAi"
+              href="https://x.com/CogniqAi"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -246,7 +246,7 @@ const LandingPage = () => {
                 className="text-xs font-medium text-white/60 uppercase hover:text-primary-yellow"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://www.dextools.io/app/en/token/nuttyai?t=1738251197537"
+                href="https://www.dextools.io/app/en/token/Cogniqai?t=1738251197537"
               >
                 Dextools
               </a>
@@ -310,7 +310,7 @@ const LandingPage = () => {
                 className="group text-white/60"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://x.com/NuttyAi"
+                href="https://x.com/CogniqAi"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -804,9 +804,9 @@ const LandingPage = () => {
       >
         <div className="w-full flex justify-center items-center text-center">
           <p className="max-w-4xl py-4 text-white/60">
-            NuttyAi Memes are intended to function as an expression of support
+            CogniqAi Memes are intended to function as an expression of support
             for, and engagement with, the ideals and beliefs embodied by the
-            symbol &ldquo;$NUTTY&rdquo; and the associated artwork, and are not
+            symbol &ldquo;$Cogniq&rdquo; and the associated artwork, and are not
             intended to be, or to be the subject of, an investment opportunity,
             investment contract, or security of any type.
           </p>
@@ -845,7 +845,7 @@ const LandingPage = () => {
             </div>
             <div className="flex flex-1 items-center justify-end gap-5">
               <p className="text-xs font-medium text-white hover:text-primary-yellow">
-                © 2025 Nutty AI
+                © 2025 Cogniq AI
               </p>
             </div>
           </div>
